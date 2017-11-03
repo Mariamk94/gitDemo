@@ -6,6 +6,7 @@ public class gitDemo {
 		System.out.println("git is simple");
 		System.out.println("git is not only SCM");
 		System.out.println("git is DVCS");
+		
 
 	}
 
